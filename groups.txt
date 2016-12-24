@@ -1,0 +1,15 @@
+comp.programming
+comp.os.threads
+comp.lang.c
+comp.lang.python
+comp.lang.javascript
+sci.bio
+sci.chem
+sci.physics
+sci.geology
+sci.astronomy
+art.drawing
+art.writing
+art.music
+art.acting
+art.painting
